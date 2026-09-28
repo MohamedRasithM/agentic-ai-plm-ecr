@@ -1,0 +1,6 @@
+{
+  "name": "AI-Driven PLM Engineering Change Decision Engine",
+  "description": "Agentic AI-driven Product Lifecycle Management (PLM) decision engine for Engineering Change Requests (ECR) based on lifecycle parameters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
